@@ -1,0 +1,7 @@
+Lib
+Scripts
+__pycache__
+build
+dist
+remote_push.bat
+compile.bat
